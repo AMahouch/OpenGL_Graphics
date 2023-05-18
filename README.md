@@ -6,10 +6,10 @@
 
 ## Demo
 ### Square
-![SquareRotationDemo_GIF](https://github.com/AMahouch/OpenGL_Graphics/assets/97981126/80a4b77d-1a32-4935-a3d8-8103e1417a45)
+![SquareRotationDemo_GIF](https://github.com/AMahouch/OpenGL_Graphics/assets/97981126/7d0c45a2-f5ac-41e4-92c6-605709ddf551)
 
 ### Circle
-![CircleDemo_GIF](https://github.com/AMahouch/OpenGL_Graphics/assets/97981126/eec6abeb-784e-48ff-98ae-e2ae4b21cc3f)
+![CircleDemo_GIF](https://github.com/AMahouch/OpenGL_Graphics/assets/97981126/fd4e7323-b829-41f2-a90a-50390bf29eed)
 
 ### Triangle
-![TraingleDemo_GIF](https://github.com/AMahouch/OpenGL_Graphics/assets/97981126/32050593-70d3-4ffc-9420-8e97e5e5de5d)
+![TraingleDemo_GIF](https://github.com/AMahouch/OpenGL_Graphics/assets/97981126/6a547fcd-bafd-4712-b68d-adf576de9b02)
